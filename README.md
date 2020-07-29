@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/LuisPe/luispe/hello_world.gif" width="30%">
+  <img src="hello_world.gif" width="30%"
+       alt="Hello world"
+       />
   <br><br>
   <samp>
     I'm LuisPe :wave:
@@ -27,7 +29,7 @@
 
 <p align="center">
 
-    Golang :bear:
+    <span>Golang</span> :bear:
     Docker :whale:
     Kubernetes :anchor:
     Terraform :construction:
