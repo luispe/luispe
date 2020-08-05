@@ -21,4 +21,4 @@ Improving Go :bear:
 You can find me here:
 
 - [Twitter](https://twitter.com/luiyo11)
-- [Slack](https://https://luispetoloy.slack.com/)
+- [Slack](https://luispetoloy.slack.com/)
