@@ -10,10 +10,13 @@ I work as a backend :neckbeard: and studing infrastucture :whale:
 
 ### - I'm currently...
 
-- Improving my SRE skills. :whale: :anchor: :construction:
-- Improving to IAC with terraform.
-- Improving Kubernetes.
-- Improving Go :bear:
+Improving my SRE skills. :whale:   
+
+Improving to IAC with terraform :construction:
+
+Improving Kubernetes  :anchor:
+
+Improving Go :bear:
 
 You can find me here:
 
