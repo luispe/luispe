@@ -6,7 +6,7 @@
 
 I'm LuisPe :wave:
 
-I work as a backend :neckbeard: and studing infrastucture :whale:
+I work as a backend :neckbeard: and studing infrastucture
 
 ### - I'm currently...
 
