@@ -12,7 +12,7 @@ I work as a backend :neckbeard: and studing infrastucture
 
 Improving my SRE skills. :whale:   
 
-Improving to IAC with terraform :construction:
+Improving to IAC :construction:
 
 Improving Kubernetes  :anchor:
 
