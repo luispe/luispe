@@ -4,21 +4,15 @@
        />
 </p>
 
-I'm LuisPe :wave:
+Hi, I'm LuisPe :wave:
 
-I work as a backend :neckbeard: and studing infrastucture
+I work as Cloud Infrastructure Engineering
 
-### - I'm currently...
-
-Improving my SRE skills. :whale:   
-
-Improving to IAC :construction:
-
-Improving Kubernetes  :anchor:
-
-Improving Go :bear:
+Focus on architecting platform
+Make the platform grow in an organic, safe and stable way
 
 You can find me here:
 
 - [Twitter](https://twitter.com/luiyo11)
+- [LinkedIn](https://www.linkedin.com/in/luis-pedro-toloy-a1b529a2/)
 - [Slack](https://luispetoloy.slack.com/)
