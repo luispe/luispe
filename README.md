@@ -15,4 +15,3 @@ You can find me here:
 - [Blog](https://luispe.github.io/blog/)
 - [Twitter](https://twitter.com/luiyo11)
 - [LinkedIn](https://www.linkedin.com/in/luis-pedro-toloy-a1b529a2/)
-- [Slack](https://luispetoloy.slack.com/)
