@@ -4,14 +4,13 @@
        />
 </p>
 
-Hi, I'm LuisPe :wave:
+Hi, I'm LuisPe 👋
 
-I work as Cloud Infrastructure Engineering
+Software engineer, writer.
 
-Focus on architecting platform
-Make the platform grow in an organic, safe and stable way
+I like to share knowledge and experiences, I am convinced that you can write simple software, for humans and sustainable in time.
 
 You can find me here:
 - [Blog](https://luispe.github.io/blog/)
-- [Twitter](https://twitter.com/luiyo11)
-- [LinkedIn](https://www.linkedin.com/in/luis-pedro-toloy-a1b529a2/)
+- [Twitter](https://twitter.com/luispe84)
+- [LinkedIn](https://www.linkedin.com/in/luispetoloy/)
